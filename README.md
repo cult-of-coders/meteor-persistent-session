@@ -35,7 +35,7 @@ to `persistent`:
 Installation
 ============
 ```
-meteor add u2622:persistent-session
+meteor add cultofcoders:persistent-session
 ```
 **Note:** To use persistent-session, your project must have Session already installed. You can add Meteor's Session package by `meteor add session`.
 
